@@ -15,7 +15,7 @@
 
 ## Внешний вид
 
-![test UI](https://imgur.com/a/xxQM2)
+![test UI](https://download.hdd.tomsk.ru/preview/kjodxkkp.jpg)
 
 [Image Link](https://yadi.sk/i/dGfLq-ba3RwGgw)
 
@@ -46,7 +46,7 @@ npm start
 
 ## Дополнително
 
-* Для иконок используйте иконические шрифты [Font Awesome] (http://fontawesome.io/cheatsheet/)
+* Для иконок используйте иконические шрифты [Font Awesome](http://fontawesome.io/cheatsheet/)
 * Обязательно посмотрите [Скринкаст основы React.js](https://learn.javascript.ru/screencast/react)
 * Большим плюсом будет прохождение курсов https://htmlacademy.ru/
 * Используйте дефолтные данные из папки ./src/data/index.js
